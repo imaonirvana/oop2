@@ -44,7 +44,7 @@ class Address
             if (value > 0)
                 index = value;
             else
-                Console.WriteLine("Index can't be zero or negative");
+                Console.WriteLine("Index can't be zero or negative!");
         }
     }
     public string Country
@@ -67,7 +67,7 @@ class Address
             if (value > 0)
                 apartment = value;
             else
-                Console.WriteLine("The apartment cannot be a zero or negative");
+                Console.WriteLine("The apartment cannot be a zero or negative!");
         }
     }
 
