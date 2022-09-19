@@ -8,7 +8,7 @@ namespace Employee
 {
     public enum Position
     {
-        Cleaner = 1,
+        Cleaner ,
         Trainee,
         Junior,
         Middle,
@@ -44,7 +44,7 @@ namespace Employee
     {
         static void Main(string[] args)
         {
-            Employee employee = new Employee("John", "Weak", 3.5, Position.Middle);
+            Employee employee = new Employee("Nathan", "Meuwe", 3.5, Position.Middle);
             Console.WriteLine($"Salary: {employee.Salary, 0:0.00}");
             Console.WriteLine($"Tax: {employee.Tax}");
         }
