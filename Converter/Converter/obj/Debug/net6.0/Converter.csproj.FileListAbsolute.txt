@@ -1,0 +1,15 @@
+/home/kaito/RiderProjects/oop2/Converter/Converter/bin/Debug/net6.0/Converter
+/home/kaito/RiderProjects/oop2/Converter/Converter/bin/Debug/net6.0/Converter.deps.json
+/home/kaito/RiderProjects/oop2/Converter/Converter/bin/Debug/net6.0/Converter.runtimeconfig.json
+/home/kaito/RiderProjects/oop2/Converter/Converter/bin/Debug/net6.0/Converter.dll
+/home/kaito/RiderProjects/oop2/Converter/Converter/bin/Debug/net6.0/ref/Converter.dll
+/home/kaito/RiderProjects/oop2/Converter/Converter/bin/Debug/net6.0/Converter.pdb
+/home/kaito/RiderProjects/oop2/Converter/Converter/obj/Debug/net6.0/Converter.csproj.AssemblyReference.cache
+/home/kaito/RiderProjects/oop2/Converter/Converter/obj/Debug/net6.0/Converter.GeneratedMSBuildEditorConfig.editorconfig
+/home/kaito/RiderProjects/oop2/Converter/Converter/obj/Debug/net6.0/Converter.AssemblyInfoInputs.cache
+/home/kaito/RiderProjects/oop2/Converter/Converter/obj/Debug/net6.0/Converter.AssemblyInfo.cs
+/home/kaito/RiderProjects/oop2/Converter/Converter/obj/Debug/net6.0/Converter.csproj.CoreCompileInputs.cache
+/home/kaito/RiderProjects/oop2/Converter/Converter/obj/Debug/net6.0/Converter.dll
+/home/kaito/RiderProjects/oop2/Converter/Converter/obj/Debug/net6.0/ref/Converter.dll
+/home/kaito/RiderProjects/oop2/Converter/Converter/obj/Debug/net6.0/Converter.pdb
+/home/kaito/RiderProjects/oop2/Converter/Converter/obj/Debug/net6.0/Converter.genruntimeconfig.cache
